@@ -1,0 +1,1006 @@
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+D:\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\App.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.exe
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.deps.json
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.pdb
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Humanizer.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.g.resources
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.dll
+D:\prak\Confectioner\obj\Debug\net8.0-windows\refint\Confectioner.dll
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.pdb
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+D:\prak\Confectioner\obj\Debug\net8.0-windows\ref\Confectioner.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.exe
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.deps.json
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.pdb
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Humanizer.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+F:\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\App.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+F:\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.g.resources
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.dll
+F:\prak\Confectioner\obj\Debug\net8.0-windows\refint\Confectioner.dll
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.pdb
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+F:\prak\Confectioner\obj\Debug\net8.0-windows\ref\Confectioner.dll
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+F:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.exe
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.deps.json
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\prak\Confectioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.g.resources
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\refint\Confectioner.dll
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+C:\Users\admin\Desktop\prak\Confectioner\obj\Debug\net8.0-windows\ref\Confectioner.dll
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+D:\prak\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Confectioner.exe
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Confectioner.deps.json
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Confectioner.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DARYA\Desktop\Confectioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditClientWindow.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditClientWindow.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.g.resources
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.dll
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\refint\Confectioner.dll
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\ref\Confectioner.dll
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.baml
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.g.cs
+C:\Users\DARYA\Desktop\Confectioner\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditClientWindow.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditOrderWindow.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\refint\Confectioner.dll
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.exe
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.deps.json
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditClientWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditOrderWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.g.resources
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+C:\Users\admin\Desktop\Confectioner готовая\obj\Debug\net8.0-windows\ref\Confectioner.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.exe
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.deps.json
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.runtimeconfig.json
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditClientWindow.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditOrderWindow.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddClients.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddOrders.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAssortment.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowClients.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowOrder.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowPrime.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowSupplier.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.cache
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner_MarkupCompile.lref
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditAssortmentWindow.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditClientWindow.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditOrderWindow.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\EditSuppliersWindow.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddAssortment.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddClients.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAddOrders.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowADDSuppliers.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowAssortment.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowClients.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowOrder.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowPrime.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Windows\WindowSupplier.baml
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.g.resources
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.AssemblyInfo.cs
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confecti.2AD73420.Up2Date
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\refint\Confectioner.dll
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.pdb
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\Confectioner.genruntimeconfig.cache
+C:\Users\admin\Desktop\Щедрина уп1\Confectioner готовая\obj\Debug\net8.0-windows\ref\Confectioner.dll

@@ -1,0 +1,63 @@
+﻿<Window x:Class="Confectioner.Windows.WindowAddClients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Confectioner.Windows"
+        mc:Ignorable="d"
+        Title="Добавление клиента" Height="550" Width="700">
+    <Grid Background="#FFEBCD" Margin="0,0,0,3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Text="Имя"
+  Grid.Row="0"
+  Grid.Column="0"/>
+        <TextBox Name="txtname"
+   Text="{Binding FirstName}"
+   Grid.Row="0"
+   Grid.Column="1"/>
+
+        <TextBlock Text="Номер телефона"
+         Grid.Row="1"
+         Grid.Column="0"/>
+        <TextBox Name="txtphone"
+          Text="{Binding Phone}"
+          Grid.Row="1"
+          Grid.Column="1"/>
+
+        <TextBlock Text="Адрес"
+         Grid.Row="2"
+         Grid.Column="0"/>
+        <TextBox Name="txtaddress"
+       Text="{Binding Address}"
+       Grid.Row="2"
+       Grid.Column="1"/>
+
+
+        <Button Content="Добавить"
+                Background="#DEB887"
+                Grid.Row="4"
+                Width="150"
+                Height="30"
+                FontSize="18"
+                Name="BtnSave"
+                Click="BtnSave_Click" RenderTransformOrigin="0.956,0.675" Grid.Column="1" Margin="250,5,20,61"/>
+        <Button Content="Назад"
+                Background="#DEB887"
+                Grid.Row="4"
+                Width="150"
+                Height="30"
+                FontSize="18"
+                Name="Btnback_three"
+                Click="Btnback_three_Click"  RenderTransformOrigin="0.956,0.675" Margin="10,5,120,61"/>
+    </Grid>
+</Window>

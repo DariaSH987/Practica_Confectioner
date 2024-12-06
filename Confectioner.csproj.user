@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Windows\EditAssortmentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EditClientWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EditOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EditSuppliersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowAddAssortment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowAddClients.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowAddOrders.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowADDSuppliers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowAssortment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowClients.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowOrder.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowPrime.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\WindowSupplier.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditAssortmentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditClientWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EditSuppliersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowAddAssortment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowAddClients.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowAddOrders.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowADDSuppliers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowAssortment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowClients.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowOrder.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowPrime.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\WindowSupplier.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
